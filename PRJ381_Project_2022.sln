@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRJ381_Project_2022.Android", "PRJ381_Project_2022\PRJ381_Project_2022.Android\PRJ381_Project_2022.Android.csproj", "{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRJ381_Project_2022", "PRJ381_Project_2022\PRJ381_Project_2022\PRJ381_Project_2022.csproj", "{3E0BFE7C-6E35-4337-9556-493A6DD803C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFD73CD-4516-43E0-954F-2F2BB68CCE13}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3E0BFE7C-6E35-4337-9556-493A6DD803C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0BFE7C-6E35-4337-9556-493A6DD803C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0BFE7C-6E35-4337-9556-493A6DD803C3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3E0BFE7C-6E35-4337-9556-493A6DD803C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0BFE7C-6E35-4337-9556-493A6DD803C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0BFE7C-6E35-4337-9556-493A6DD803C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98797C6B-9ACB-4B60-BAAD-AA462C3FF151}
+	EndGlobalSection
+EndGlobal
