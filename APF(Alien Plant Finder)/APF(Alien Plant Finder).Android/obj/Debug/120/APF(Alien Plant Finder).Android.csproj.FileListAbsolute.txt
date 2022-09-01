@@ -1258,6 +1258,4 @@ S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Deb
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
-S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\splash_logo.png
-S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\splash_screen.xml
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\src\crc64f85c10fa6191e76c\SplashActivity.java
