@@ -10,7 +10,7 @@ namespace PRJ381_Project_2022.ViewModels
         public AboutViewModel()
         {
             Title = "About";
-            OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://aka.ms/xamarin-quickstart"));
+            OpenWebCommand = new Command(async () => await Browser.OpenAsync("https://youtu.be/8o88qv__N9Q"));
         }
 
         public ICommand OpenWebCommand { get; }
