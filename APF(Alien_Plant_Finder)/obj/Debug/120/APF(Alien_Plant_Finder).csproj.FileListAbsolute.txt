@@ -304,3 +304,6 @@ S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\stamp
 S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\res\drawable\splash_logo.png
+S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\res\drawable\splash_screen.xml
+S:\Projects_2022\PRJ381_Project_2022\APF(Alien_Plant_Finder)\obj\Debug\120\android\src\crc64c938918b15851ec9\SplashActivity.java
