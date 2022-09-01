@@ -5,7 +5,7 @@ using AndroidX.AppCompat.App;
 
 namespace APF_Alien_Plant_Finder_
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "APF", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
