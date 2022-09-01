@@ -14589,7 +14589,7 @@ namespace APF_Alien_Plant_Finder_.Droid
 			public const int highlighted_text_material_light = 2131034212;
 			
 			// aapt resource value: 0x7F050065
-			public const int launcher_background = 2131034213;
+			public const int ic_launcher_background = 2131034213;
 			
 			// aapt resource value: 0x7F050066
 			public const int material_blue_grey_800 = 2131034214;
@@ -16658,13 +16658,19 @@ namespace APF_Alien_Plant_Finder_.Droid
 			public const int preference_list_divider_material = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int test_custom_background = 2131165325;
+			public const int Splash_Logo = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int tooltip_frame_dark = 2131165326;
+			public const int splash_screen = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int tooltip_frame_light = 2131165327;
+			public const int test_custom_background = 2131165327;
+			
+			// aapt resource value: 0x7F070090
+			public const int tooltip_frame_dark = 2131165328;
+			
+			// aapt resource value: 0x7F070091
+			public const int tooltip_frame_light = 2131165329;
 			
 			static Drawable()
 			{

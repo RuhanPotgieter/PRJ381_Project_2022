@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\APF(Alien Plant Finder)",
+    "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android",
+    "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\Resources",
+    "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\Resources\\values"
   ],
-  "SelectedNode": "\\S:\\Projects_2022",
+  "SelectedNode": "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\Resources\\values\\styles.xml",
   "PreviewInSolutionExplorer": false
 }
