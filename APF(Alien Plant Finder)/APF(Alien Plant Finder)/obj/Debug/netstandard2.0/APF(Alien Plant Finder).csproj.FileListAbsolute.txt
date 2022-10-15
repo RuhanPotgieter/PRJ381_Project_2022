@@ -28,3 +28,18 @@ S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netst
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\refint\APF(Alien Plant Finder).dll
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).pdb
 S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\ref\APF(Alien Plant Finder).dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\bin\Debug\netstandard2.0\APF(Alien Plant Finder).deps.json
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\bin\Debug\netstandard2.0\APF(Alien Plant Finder).dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\bin\Debug\netstandard2.0\APF(Alien Plant Finder).pdb
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).csproj.AssemblyReference.cache
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).GeneratedMSBuildEditorConfig.editorconfig
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\App.xaml.g.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).AssemblyInfoInputs.cache
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).AssemblyInfo.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).csproj.CoreCompileInputs.cache
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\XamlC.stamp
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\refint\APF(Alien Plant Finder).dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF(Alien Plant Finder).pdb
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\ref\APF(Alien Plant Finder).dll

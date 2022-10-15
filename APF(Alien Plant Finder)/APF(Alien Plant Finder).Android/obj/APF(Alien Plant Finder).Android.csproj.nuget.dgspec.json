@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj": {}
+    "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj": {}
   },
   "projects": {
-    "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj": {
+    "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj",
+        "projectUniqueName": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj",
         "projectName": "APF(Alien Plant Finder).Android",
-        "projectPath": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj",
+        "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\APF(Alien Plant Finder).Android.csproj",
         "packagesPath": "C:\\Users\\karam.DESKTOP-50UCQHT\\.nuget\\packages\\",
-        "outputPath": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\obj\\",
+        "outputPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj": {
-                "projectPath": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj"
+              "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj": {
+                "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj"
               }
             }
           }
@@ -44,6 +44,10 @@
       "frameworks": {
         "monoandroid12.0": {
           "dependencies": {
+            "Com.Airbnb.Xamarin.Forms.Lottie": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.7.0, )"
@@ -56,14 +60,14 @@
         }
       }
     },
-    "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj": {
+    "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj",
+        "projectUniqueName": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj",
         "projectName": "APF(Alien Plant Finder)",
-        "projectPath": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj",
+        "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj",
         "packagesPath": "C:\\Users\\karam.DESKTOP-50UCQHT\\.nuget\\packages\\",
-        "outputPath": "S:\\Projects_2022\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\obj\\",
+        "outputPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -80,6 +84,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,11 +124,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
