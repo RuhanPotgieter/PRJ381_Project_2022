@@ -3,7 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "APF(Alien Plant Finder).Android.dll" comes first in this list. */
 		"APF(Alien Plant Finder).Android.dll",
-		"APF(Alien Plant Finder).dll",
+		"APF.dll",
 		"FormsViewGroup.dll",
 		"Lottie.Android.dll",
 		"Lottie.Forms.dll",

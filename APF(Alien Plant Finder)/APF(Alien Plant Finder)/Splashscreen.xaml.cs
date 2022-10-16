@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.Forms;
 
-namespace APF_Alien_Plant_Finder_
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace APF
 {
-    public partial class MainPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class Splashscreen : ContentPage
     {
-        public MainPage()
+        public Splashscreen()
         {
             InitializeComponent();
         }

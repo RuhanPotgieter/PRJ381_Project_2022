@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APF.GUI">
+    <ContentPage.Content>
+        
+        <StackLayout BackgroundColor="#2C2C2C">
+            <Image Source="launcher_foreground.png" HeightRequest="300" WidthRequest="100"> </Image>
+            <Image x:Name="imglogo" HeightRequest="200" WidthRequest="200"></Image>
+            <Button Text="Take Photo of Plant" Clicked="Button_Clicked" Margin="85" WidthRequest="185" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15"> </Button>
+            <Button Text="Connect to Drone" Clicked="Button_Clicked" Margin="85" WidthRequest="185" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

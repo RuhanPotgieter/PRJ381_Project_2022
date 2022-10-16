@@ -1829,7 +1829,7 @@
           "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets": {}
         }
       },
-      "APF(Alien Plant Finder)/1.0.0": {
+      "APF/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1837,10 +1837,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/APF(Alien Plant Finder).dll": {}
+          "bin/placeholder/APF.dll": {}
         },
         "runtime": {
-          "bin/placeholder/APF(Alien Plant Finder).dll": {}
+          "bin/placeholder/APF.dll": {}
         }
       }
     }
@@ -3515,15 +3515,15 @@
         "xamarin.google.guava.listenablefuture.nuspec"
       ]
     },
-    "APF(Alien Plant Finder)/1.0.0": {
+    "APF/1.0.0": {
       "type": "project",
-      "path": "../APF(Alien Plant Finder)/APF(Alien Plant Finder).csproj",
-      "msbuildProject": "../APF(Alien Plant Finder)/APF(Alien Plant Finder).csproj"
+      "path": "../APF(Alien Plant Finder)/APF.csproj",
+      "msbuildProject": "../APF(Alien Plant Finder)/APF.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v12.0": [
-      "APF(Alien Plant Finder) >= 1.0.0",
+      "APF >= 1.0.0",
       "Com.Airbnb.Xamarin.Forms.Lottie >= 4.1.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
@@ -3564,8 +3564,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj": {
-              "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj"
+            "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF.csproj": {
+              "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF.csproj"
             }
           }
         }

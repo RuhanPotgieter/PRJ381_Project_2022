@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APF(Alien Plant Finder).Android", "APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\APF(Alien Plant Finder).Android.csproj", "{9338D97B-E9C0-4E88-949E-7D3C2E78085B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APF(Alien Plant Finder)", "APF(Alien Plant Finder)\APF(Alien Plant Finder)\APF(Alien Plant Finder).csproj", "{53094300-F8A3-4860-923C-77D440DF974B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APF", "APF(Alien Plant Finder)\APF(Alien Plant Finder)\APF.csproj", "{53094300-F8A3-4860-923C-77D440DF974B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("APF(Alien_Plant_Finder).App.xaml", "App.xaml", typeof(global::APF_Alien_Plant_Finder_.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("APF.App.xaml", "App.xaml", typeof(global::APF_Alien_Plant_Finder_.App))]
 
 namespace APF_Alien_Plant_Finder_ {
     

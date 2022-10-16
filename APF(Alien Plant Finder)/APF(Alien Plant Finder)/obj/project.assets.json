@@ -548,9 +548,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj",
-      "projectName": "APF(Alien Plant Finder)",
-      "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).csproj",
+      "projectUniqueName": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF.csproj",
+      "projectName": "APF",
+      "projectPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\APF.csproj",
       "packagesPath": "C:\\Users\\karam.DESKTOP-50UCQHT\\.nuget\\packages\\",
       "outputPath": "S:\\Project_2022_PRJ\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\obj\\",
       "projectStyle": "PackageReference",

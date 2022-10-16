@@ -91,13 +91,16 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\APF(Alien Plant Finder)\APF(Alien Plant Finder).csproj">
-      <Project>{2BE387EE-34DC-40F6-ABCC-4C97C48915C0}</Project>
-      <Name>APF(Alien Plant Finder)</Name>
+    <ProjectReference Include="..\APF%28Alien Plant Finder%29\APF.csproj">
+      <Project>{53094300-F8A3-4860-923C-77D440DF974B}</Project>
+      <Name>APF</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\" />
+    <AndroidResource Include="Resources\drawable\LogoClear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\launcher_foreground.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

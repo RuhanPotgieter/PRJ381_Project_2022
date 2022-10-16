@@ -1266,8 +1266,6 @@ S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\com.companyname.apf_alien_plant_finder_-Signed.aab
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\com.companyname.apf_alien_plant_finder_-Signed.apk
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\com.companyname.apf_alien_plant_finder_-Signed.apk.idsig
-S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\APF(Alien Plant Finder).dll
-S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\APF(Alien Plant Finder).pdb
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\build.props
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\adb.props
@@ -1311,8 +1309,6 @@ S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\resolvedassemblies.hash
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF(Alien Plant Finder).Android.dll
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF(Alien Plant Finder).Android.pdb
-S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF(Alien Plant Finder).dll
-S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF(Alien Plant Finder).pdb
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\FormsViewGroup.dll
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\FormsViewGroup.pdb
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\Java.Interop.dll
@@ -1914,3 +1910,9 @@ S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\src\mono\com\airbnb\lottie\LottieOnCompositionLoadedListenerImplementor.java
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\src\mono\com\airbnb\lottie\OnCompositionLoadedListenerImplementor.java
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\src\mono\com\airbnb\lottie\PerformanceTracker_FrameListenerImplementor.java
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\APF.dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\bin\Debug\APF.pdb
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF.dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF.pdb
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\logoclear.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\launcher_foreground.png

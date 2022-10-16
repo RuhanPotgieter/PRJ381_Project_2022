@@ -1,0 +1,16 @@
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\bin\Debug\netstandard2.0\APF.deps.json
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\bin\Debug\netstandard2.0\APF.dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\bin\Debug\netstandard2.0\APF.pdb
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.csproj.AssemblyReference.cache
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.GeneratedMSBuildEditorConfig.editorconfig
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\App.xaml.g.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\GUI.xaml.g.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.AssemblyInfoInputs.cache
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.AssemblyInfo.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.csproj.CoreCompileInputs.cache
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\XamlC.stamp
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\refint\APF.dll
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.pdb
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\ref\APF.dll
