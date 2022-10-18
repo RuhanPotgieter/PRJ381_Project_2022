@@ -1,24 +1,86 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:APF"
-             x:Class="APF.GUI">
-    <ContentPage.Content>
+<ContentPage x:Class="gui.gui"
+	xmlns="http://xamarin.com/schemas/2014/forms"
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+	xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	mc:Ignorable="d"
+	Title="gui">
+	<ContentPage.Content>
+		<ScrollView>
+		<AbsoluteLayout>
 
-        <FlexLayout BackgroundColor="#2c2c2c"
-                    AlignItems="Center"
-                    JustifyContent="SpaceEvenly"
-                    Direction="Column"
-                    >
-            
-            <Image Source="launcher_foreground.png" HeightRequest="200" WidthRequest="200"></Image>
-            
 
-            <Button Text="Take Photo of Plant" Clicked="Button_Clicked"  WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15"></Button>
-            <Button Text="Connect to Drone" Clicked="Button_Clicked"  WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" ></Button>
+			<AbsoluteLayout x:Name="page_gui_ek1"
+				 AbsoluteLayout.LayoutBounds="0,0,360,800"
+				 >
 
-        </FlexLayout>
+				<BoxView x:Name="_bg__gui_ek2"
+					Color="#2C2C2C"
+					AbsoluteLayout.LayoutBounds="0,0,470,800" />
+                
 
-        
-    </ContentPage.Content>
+				<AbsoluteLayout x:Name="background_leaves"
+					 AbsoluteLayout.LayoutBounds="-189.96,-140.89,757.1,1114.02"
+					 >
+                       
+
+                        <Image x:Name="ic_launcher_foreground_3"
+						Source="ic_launcher_foreground_3.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="408,578,296,304" />
+                    
+                        <Image x:Name="ic_launcher_foreground_4"
+						Source="ic_launcher_foreground_7.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="48,578,296,304" />
+
+                        <Image x:Name="ic_launcher_foreground_10"
+						Source="ic_launcher_foreground_10.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="51,317,297,303" />
+                    
+					<Image x:Name="ic_launcher_foreground_7"
+						Source="ic_launcher_foreground_7.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="77,763,297,303" />
+                    
+					<Image x:Name="ic_launcher_foreground_9"
+						Source="ic_launcher_foreground_9.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="76,37,297,303" />
+                    
+					<Image x:Name="ic_launcher_foreground_11"
+						Source="ic_launcher_foreground_11.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="395,35,297,303" />
+                    
+					<Image x:Name="ic_launcher_foreground_8"
+						Source="ic_launcher_foreground_8.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="395,761,297,302" />
+                    
+					<Image x:Name="ic_launcher_foreground_5"
+						Source="ic_launcher_foreground_5.png"
+						Opacity="0.5"
+						AbsoluteLayout.LayoutBounds="405,319,297,303" />
+
+                        <Image x:Name="ic_launcher_foreground_0"
+						Source="launcher_foreground.png"
+						Opacity="1"
+						AbsoluteLayout.LayoutBounds="200,200,370,330" />
+
+                        <Button Text="Connect to Drone"   WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" AbsoluteLayout.LayoutBounds ="295,685"></Button>
+                        <Button Text="Take Photo of Plant"   WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" AbsoluteLayout.LayoutBounds ="295,585"></Button>
+
+                    </AbsoluteLayout>
+
+				<Image x:Name="ic_launcher_foreground_3_ek1"
+					Source="ic_launcher_foreground_3_ek1.png"
+					AbsoluteLayout.LayoutBounds="200,57,229,226" />
+			</AbsoluteLayout>
+		</AbsoluteLayout>
+
+		</ScrollView>
+
+	</ContentPage.Content>
 </ContentPage>

@@ -16,8 +16,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="GUI.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    <Compile Update="gui.xaml.cs">
+      <DependentUpon>gui.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="gui.xaml">
+      <Generator>MSBuild:Compile</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Splashscreen.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>

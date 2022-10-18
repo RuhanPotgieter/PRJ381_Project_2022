@@ -1,4 +1,5 @@
 ﻿using APF;
+using gui;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,7 +12,7 @@ namespace APF_Alien_Plant_Finder_
         {
             InitializeComponent();
 
-            MainPage = new GUI();
+            MainPage = new gui.gui();
         }
 
         protected override void OnStart()

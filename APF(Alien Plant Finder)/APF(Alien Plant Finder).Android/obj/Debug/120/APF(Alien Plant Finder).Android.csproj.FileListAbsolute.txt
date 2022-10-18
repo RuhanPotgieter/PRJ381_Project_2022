@@ -1916,3 +1916,10 @@ S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\android\assets\APF.pdb
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\logoclear.png
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\launcher_foreground.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_10.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_11.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_3.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_5.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_7.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_8.png
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Debug\120\res\drawable\ic_launcher_foreground_9.png
