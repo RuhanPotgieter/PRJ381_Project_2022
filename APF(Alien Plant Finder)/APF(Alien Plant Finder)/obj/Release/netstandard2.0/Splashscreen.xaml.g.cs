@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("APF.MainPage.xaml", "MainPage.xaml", typeof(global::APF_Alien_Plant_Finder_.MainPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("APF.Splashscreen.xaml", "Splashscreen.xaml", typeof(global::APF.Splashscreen))]
 
-namespace APF_Alien_Plant_Finder_ {
+namespace APF {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("MainPage.xaml")]
-    public partial class MainPage : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Splashscreen.xaml")]
+    public partial class Splashscreen : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(MainPage));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Splashscreen));
         }
     }
 }

@@ -9,6 +9,7 @@ androidx.appcompat.widget.Toolbar;S:\Projects_2022\APF(Alien Plant Finder)\APF(A
 androidx.appcompat.widget.Toolbar;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\toolbar.xml
 androidx.coordinatorlayout.widget.CoordinatorLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\rootlayout.xml
 androidx.coordinatorlayout.widget.CoordinatorLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\shellcontent.xml
+attr;S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\104\jl\res\values\values.xml
 attr;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\values\attrs.xml
 background;obj\Release\120\res\mipmap-anydpi-v26\icon.xml
 background;obj\Release\120\res\mipmap-anydpi-v26\icon_round.xml
@@ -23,7 +24,9 @@ com.google.android.material.bottomnavigation.BottomNavigationView;S:\Projects_20
 com.google.android.material.tabs.TabLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\fallbacktabbardonotuse.xml
 com.google.android.material.tabs.TabLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\rootlayout.xml
 com.google.android.material.tabs.TabLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\tabbar.xml
+declare-styleable;S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\104\jl\res\values\values.xml
 declare-styleable;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\values\attrs.xml
+enum;S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\104\jl\res\values\values.xml
 external-cache-path;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Release\120\res\mipmap-anydpi-v26\icon.xml
@@ -31,12 +34,14 @@ foreground;obj\Release\120\res\mipmap-anydpi-v26\icon_round.xml
 FrameLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\bottomtablayout.xml
 item;obj\Release\120\res\drawable\splash_screen.xml
 item;obj\Release\120\res\values\styles.xml
+item;S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\104\jl\res\values\values.xml
 item;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\values\styles.xml
 layer-list;obj\Release\120\res\drawable\splash_screen.xml
 LinearLayout;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\layout\bottomtablayout.xml
 paths;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\53\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;obj\Release\120\res\values\colors.xml
 resources;obj\Release\120\res\values\styles.xml
+resources;S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\104\jl\res\values\values.xml
 resources;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\values\attrs.xml
 resources;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\values\strings.xml
 resources;S:\Projects_2022\APF(Alien Plant Finder)\APF(Alien Plant Finder).Android\obj\Release\120\lp\54\jl\res\values\styles.xml

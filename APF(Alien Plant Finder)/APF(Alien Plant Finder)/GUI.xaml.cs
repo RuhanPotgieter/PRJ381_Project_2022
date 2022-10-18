@@ -15,7 +15,7 @@ public partial class GUI : ContentPage
     public GUI()
     {
         InitializeComponent();
-            imglogo.Source = ImageSource.FromResource("launcher_foregrround.png");
+           
         }
 
         private void Button_Clicked(object sender, EventArgs e)
