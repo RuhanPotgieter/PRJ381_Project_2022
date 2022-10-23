@@ -1,5 +1,6 @@
-﻿using APF;
+﻿
 using gui;
+using splash_screen_15;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -17,7 +18,8 @@ namespace APF_Alien_Plant_Finder_
 
         protected override void OnStart()
         {
-        }
+        }0.
+        
 
         protected override void OnSleep()
         {

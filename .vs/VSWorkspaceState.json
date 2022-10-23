@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\APF(Alien Plant Finder)",
+    "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)",
+    "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder).Android"
   ],
-  "SelectedNode": "\\APF(Alien Plant Finder).sln",
+  "SelectedNode": "\\APF(Alien Plant Finder)\\APF(Alien Plant Finder)\\Splashscreen.xaml",
   "PreviewInSolutionExplorer": false
 }

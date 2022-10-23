@@ -18,6 +18,8 @@ namespace gui
         {
             InitializeComponent();
         }
+
+        
     }
 }
 	

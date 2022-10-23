@@ -24,5 +24,6 @@ namespace APF_Alien_Plant_Finder_.Droid
 
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
+        
     }
 }
