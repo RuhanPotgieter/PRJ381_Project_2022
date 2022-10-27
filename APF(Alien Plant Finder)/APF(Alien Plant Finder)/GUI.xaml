@@ -70,7 +70,7 @@
 						AbsoluteLayout.LayoutBounds="200,200,370,330" />
 
                         <Button Text="Connect to Drone"   WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" AbsoluteLayout.LayoutBounds ="295,685"></Button>
-                        <Button Text="Take Photo of Plant"   WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" AbsoluteLayout.LayoutBounds ="295,585"></Button>
+                        <Button Text="Scan the Plant"   WidthRequest="185" HeightRequest="49" BackgroundColor="#122316" TextColor="#DDF9DE" FontFamily="Jockey One" BorderColor="#5AFF61" BorderWidth="1" CornerRadius="15" AbsoluteLayout.LayoutBounds ="295,585"></Button>
 
                     </AbsoluteLayout>
 
