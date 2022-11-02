@@ -14,3 +14,4 @@ S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\ne
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\APF.pdb
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\ref\APF.dll
 S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\splash_screen_blank.xaml.g.cs
+S:\Project_2022_PRJ\APF(Alien Plant Finder)\APF(Alien Plant Finder)\obj\Debug\netstandard2.0\Cameraview.xaml.g.cs
